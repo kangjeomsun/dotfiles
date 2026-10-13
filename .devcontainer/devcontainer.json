@@ -1,0 +1,4 @@
+{
+  "name": "Opencode DevContainer",
+  "postCreateCommand": "curl -fsSL https://opencode.ai/install | bash"
+}
